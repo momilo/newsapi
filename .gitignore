@@ -1,0 +1,7 @@
+# GoLand files
+**/.idea/*
+*.iws
+
+# Go compiled files
+/pkg
+/bin
